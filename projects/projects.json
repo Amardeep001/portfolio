@@ -40,33 +40,33 @@
     }
   },
   {
-    "name": "Instagram MERN",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
-    "image": "instagrammern",
+    "name": "Fourthstar",
+    "desc": "Virtual Reality project for experiencing real life events in Oculus(VR) like entertainment, events,gaming, concerts.",
+    "image": "fourthstar",
     "category": "mern",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "view": "https://www.fourthstar.com/",
+      "code": "#"
     }
   },
   {
-    "name": "Flipkart MERN",
-    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
-    "image": "flipkartmern",
+    "name": "Magic Mirror",
+    "desc": "Mirror that tracks and senses our body movements while doing exercises running in the mirror desktop app.",
+    "image": "mirror",
     "category": "mern",
     "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/flipkart-mern"
+      "view": "https://magic.fit/",
+      "code": "#"
     }
   },
   {
-    "name": "ResumeGen",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen",
+    "name": "Edneed",
+    "desc": "Edtech platform for educators, learners and Institute also includes community, LMS, website builder.",
+    "image": "edneed",
     "category": "mern",
     "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/jigar-sable/resumegen"
+      "view": "https://edneed.com/",
+      "code": "#"
     }
   },
   {
